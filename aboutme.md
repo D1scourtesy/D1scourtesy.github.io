@@ -1,16 +1,16 @@
 ---
 layout: page
 title: CONTACT US
-subtitle: Why you'd want to go on a date with me
+subtitle: Our team is small, and due to the specificity of our tasks, email is the quickest method of contacting us. We make every effort to respond to all emails within 24 hours on weekdays (Monday to Friday).
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+#### ASK US ANYTHING
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Feel free to ask us anything! We're more than happy to provide answers to any questions you may have. Don't hesitate to reach out!
 
-What else do you need?
+#### For general inquiries:
 
-### My story
+- Phone:
+- Email:
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
