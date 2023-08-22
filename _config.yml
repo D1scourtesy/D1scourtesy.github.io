@@ -23,7 +23,7 @@ navbar-links:
   Contact Us: "contactus"
   Resources:
     - Services: "services"
-    - FAQ: "https://www.markdowntutorial.com/"
+    - FAQ: "FAQ"
 
 ################
 # --- Logo --- #
