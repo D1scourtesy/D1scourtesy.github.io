@@ -22,7 +22,7 @@ author: Some Person
 navbar-links:
   Contact Us: "contactus"
   Resources:
-    - Services: "https://beautifuljekyll.com"
+    - Services: "services"
     - FAQ: "https://www.markdowntutorial.com/"
 
 ################
