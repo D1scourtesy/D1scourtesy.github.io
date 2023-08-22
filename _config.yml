@@ -22,8 +22,8 @@ author: Some Person
 navbar-links:
   Contact Us: "contactus"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Services: "https://beautifuljekyll.com"
+    - FAQ: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
